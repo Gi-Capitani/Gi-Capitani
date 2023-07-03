@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Fique a vontade para me seguir, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Fique a vontade para me seguir, sua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
   
 </div>
