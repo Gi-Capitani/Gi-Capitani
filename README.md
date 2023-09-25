@@ -33,7 +33,9 @@
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
 </div><br>
-
+<div align='center'>
+<a height="140em" href="https://github.com/Gi-Capitani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gi-Capitani&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
 <div align="center">
   
   <a href="https://www.linkedin.com/in/giovanna-capitani-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
